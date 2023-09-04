@@ -134,7 +134,7 @@ export const DELETE = async (request) => {
   //1. use array filter method
   // DB.students = DB.students.filter(...);
 
-  // let filtered = DB.students;
+  // let filtered = DB.students ;
   // let del = DB.students;
   // if (filtered !== null)
   //   del = del.filter((std) => std.studentId === body.studentId);
